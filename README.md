@@ -1,0 +1,4 @@
+### Testing
+
+`truffle develop`
+`test`
